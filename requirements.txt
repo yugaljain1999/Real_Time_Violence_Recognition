@@ -1,0 +1,8 @@
+onnxruntime
+scikit-build
+cmake
+opencv-python
+numpy
+flask
+python-ffmpeg-video-streaming>=0.1
+gunicorn
